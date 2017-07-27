@@ -1,0 +1,33 @@
+/* 
+    Document   : indesxsty
+    Created on : Oct 20, 2016, 2:53:44 AM
+    Author     : DELL
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+}
+body{
+    
+    background-image: url(5.jpg) ;
+     background-size: 100% 250%;
+    background-repeat: no-repeat;
+      text-color : white; 
+}
+form{
+    
+    font-family: Rockwell;
+    color: white;
+}
+
+h3{
+    font-family: Impact;
+    font-size: 30px;
+}

@@ -1,0 +1,52 @@
+/* 
+    Document   : transfersty
+    Created on : Oct 20, 2016, 4:34:53 AM
+    Author     : DELL
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+}
+
+body{
+    
+     background-image: url(3.jpg) ;
+     background-size: 100% 500%;
+    background-repeat: no-repeat;
+      
+}
+
+font{
+    
+    color: white;
+   
+}
+
+center{
+    
+    color: white;
+}
+
+#z{
+    
+    
+   height: 90px;
+    width: 400px;
+    border-color: #6495ED;
+    background-color: whitesmoke;
+    border-radius :5px;
+    text-align: center;
+    margin-top: 20px;  
+    position: absolute;
+    top: 200px;
+    right: 470px; 
+    font-size: 25px;
+    color: red;
+}

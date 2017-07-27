@@ -1,0 +1,23 @@
+/* 
+    Document   : updatesty
+    Created on : Oct 20, 2016, 5:09:32 AM
+    Author     : DELL
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+}
+body{
+    
+     background-image: url(5.jpg) ;
+     background-size: 100% 500%;
+    background-repeat: no-repeat;
+      
+}

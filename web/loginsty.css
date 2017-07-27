@@ -1,0 +1,209 @@
+/* 
+    Document   : loginsty
+    Created on : Oct 20, 2016, 3:43:29 AM
+    Author     : DELL
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+}
+
+body{
+    
+    background-image: url(1.jpg) ;
+     background-size: 100% 400%;
+    background-repeat: no-repeat;
+      text-color : white; 
+}
+
+
+
+#b{
+   height: 40px;
+    width: 400px;
+    border-color: #6495ED;
+    background-color: whitesmoke;
+    border-radius :5px;
+    text-align: center;
+    margin-top: 20px;  
+    position: absolute;
+    top: 200px;
+    right: 470px; 
+    font-size: 25px;
+    color: red;
+    
+}
+
+#c{
+   height: 40px;
+    width: 400px;
+    border-color: #6495ED;
+    background-color: whitesmoke;
+    border-radius :5px;
+    text-align: center;
+    margin-top: 20px;  
+    position: absolute;
+    top: 250px;
+    right: 470px; 
+    font-size: 25px;
+    color: red;
+    
+}
+
+
+#d{
+   height: 60px;
+    width: 400px;
+    border-color: #6495ED;
+    background-color: whitesmoke;
+    border-radius :5px;
+    text-align: center;
+    margin-top: 20px;  
+    position: absolute;
+    top: 300px;
+    right: 470px; 
+    font-size: 25px;
+    color: red;
+    
+}
+
+
+#e{
+   height: 40px;
+    width: 400px;
+    border-color: #6495ED;
+    background-color: whitesmoke;
+    border-radius :5px;
+    text-align: center;
+    margin-top: 20px;  
+    position: absolute;
+    top: 370px;
+    right: 470px; 
+    font-size: 25px;
+    color: red;
+    
+}
+
+
+#f{
+   height: 40px;
+    width: 400px;
+    border-color: #6495ED;
+    background-color: whitesmoke;
+    border-radius :5px;
+    text-align: center;
+    margin-top: 20px;  
+    position: absolute;
+    top: 420px;
+    right: 470px; 
+    font-size: 25px;
+    color: red;
+    
+}
+
+
+#g{
+   height: 40px;
+    width: 400px;
+    border-color: #6495ED;
+    background-color: whitesmoke;
+    border-radius :5px;
+    text-align: center;
+    margin-top: 20px;  
+    position: absolute;
+    top: 470px;
+    right: 470px; 
+    font-size: 25px;
+    color: red;
+    
+}
+
+
+#h{
+   height: 40px;
+    width: 400px;
+    border-color: #6495ED;
+    background-color: whitesmoke;
+    border-radius :5px;
+    text-align: center;
+    margin-top: 20px;  
+    position: absolute;
+    top: 520px;
+    right: 470px; 
+    font-size: 25px;
+    color: red;
+    
+}
+
+
+#i{
+   height: 40px;
+    width: 400px;
+    border-color: #6495ED;
+    background-color: whitesmoke;
+    border-radius :5px;
+    text-align: center;
+    margin-top: 20px;  
+    position: absolute;
+    top: 570px;
+    right: 470px; 
+    font-size: 25px;
+    color: red;
+    
+}
+
+
+#j{
+   height: 40px;
+    width: 400px;
+    border-color: #6495ED;
+    background-color: whitesmoke;
+    border-radius :5px;
+    text-align: center;
+    margin-top: 20px;  
+    position: absolute;
+    top: 620px;
+    right: 470px; 
+    font-size: 25px;
+    color: red;
+    
+}
+
+#k{
+   height: 40px;
+    width: 400px;
+    border-color: #6495ED;
+    background-color: whitesmoke;
+    border-radius :5px;
+    text-align: center;
+    margin-top: 20px;  
+    position: absolute;
+    top: 670px;
+    right: 470px; 
+    font-size: 25px;
+    color: red;
+    
+}
+
+#l{
+   height: 40px;
+    width: 400px;
+    border-color: #6495ED;
+    background-color: whitesmoke;
+    border-radius :5px;
+    text-align: center;
+    margin-top: 20px;  
+    position: absolute;
+    top: 720px;
+    right: 470px; 
+    font-size: 25px;
+    color: red;
+    
+}

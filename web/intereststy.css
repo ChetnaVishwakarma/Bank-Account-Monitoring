@@ -1,0 +1,29 @@
+/* 
+    Document   : intereststy
+    Created on : Oct 20, 2016, 4:56:51 AM
+    Author     : DELL
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+}
+
+body{
+    
+     background-image: url(6.jpg) ;
+     background-size: 100% 500%;
+    background-repeat: no-repeat;
+   
+      
+}
+table{
+    
+    color: white;
+}
